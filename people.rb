@@ -4,7 +4,7 @@ class Person
 	#attr_accessor :name
 	def initialize(name)
 		puts ""
-		puts "Initializing"
+	#	puts "Initializing"
 		@name = name
 	end
 
